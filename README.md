@@ -5,7 +5,7 @@ It will classify the data in passed and failed dyed batches.
 There is presentation also included as pdf which shows the outcome and findings of the project in brief.
 
 # List of Libraries used in this project
-Numpy
+Numpy<br>
 Pandas
 Matplotlib
 Seaborn
