@@ -22,15 +22,10 @@ feature selection : model.feature_importances_
 
 # Data Visualisation 
 Countplot
-
 Barplot
-
 Distplot
-
 Barh
-
 Msno.bar
-
 Msno.matrix
 
 # Problem Statement
