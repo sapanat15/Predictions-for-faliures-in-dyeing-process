@@ -6,27 +6,27 @@ There is presentation also included as pdf which shows the outcome and findings 
 
 # List of Libraries used in this project
 Numpy<br>
-Pandas
-Matplotlib
-Seaborn
-Missigno
-IPython.display
-Sklearn
-sklearn.preprocessing : Standardscalar, LabelEncoder
-sklearn.model_selection : train_test_split, StratifiedKFold, GridSearchCV
-sklearn.linear_model : LogisticRegression
-sklearn.metrics : r2_score, accuracy_score, roc_auc_score, f1_score, recall_score, precision_score, recall_score, confusion_matrix, roc_curve
-sklearn.ensemble : RandomForestClassifier, AdaBoostClassifier
-scipy.stats : kurtosis, skew, z-score
-feature selection : model.feature_importances_
+Pandas<br>
+Matplotlib<br>
+Seaborn<br>
+Missigno<br>
+IPython.display<br>
+Sklearn<br>
+sklearn.preprocessing : Standardscalar, LabelEncoder<br>
+sklearn.model_selection : train_test_split, StratifiedKFold, GridSearchCV<br>
+sklearn.linear_model : LogisticRegression<br>
+sklearn.metrics : r2_score, accuracy_score, roc_auc_score, f1_score, recall_score, precision_score, recall_score, confusion_matrix, roc_curve<br>
+sklearn.ensemble : RandomForestClassifier, AdaBoostClassifier<br>
+scipy.stats : kurtosis, skew, z-score<br>
+feature selection : model.feature_importances_<br>
 
 # Data Visualisation 
-Countplot
-Barplot
-Distplot
-Barh
-Msno.bar
-Msno.matrix
+Countplot<br>
+Barplot<br>
+Distplot<br>
+Barh<br>
+Msno.bar<br>
+Msno.matrix<br>
 
 # Problem Statement
 
